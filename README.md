@@ -1,4 +1,4 @@
-# SuperMarioRNA
+# SuperMarioMLP
 
 This project shows that MLP (Multi layer perceptrons) can be used in videogames to create characters with advanced AI capabilities.The main advantage of this aproach is the ability that neural networks have to simulate the natural learnig process.
 
@@ -11,5 +11,11 @@ to play the game and the neural network learns from this classical AI.
 
 This architecture makes posible creating games where AI characters learn from the human user, evolving the game as the human 
 player adquires new skills.
+
+NetBeans project is provided in adition to the executable JAR. The following libraries are used:
+
+- Encog http://www.heatonresearch.com/encog
+- Slick2D http://slick.ninjacave.com/ (http://slick.ninjacave.com/wiki/index.php?title=Setting_up_Slick2D_with_NetBeansIDE)
+- 
 
 
