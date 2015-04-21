@@ -16,6 +16,5 @@ NetBeans project is provided in adition to the executable JAR. The following lib
 
 - Encog http://www.heatonresearch.com/encog
 - Slick2D http://slick.ninjacave.com/ (http://slick.ninjacave.com/wiki/index.php?title=Setting_up_Slick2D_with_NetBeansIDE)
-- 
 
 
