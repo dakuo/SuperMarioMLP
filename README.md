@@ -15,6 +15,6 @@ player adquires new skills.
 NetBeans project is provided in adition to the executable JAR. The following libraries are used:
 
 - Encog http://www.heatonresearch.com/encog
-- Slick2D http://slick.ninjacave.com/ (http://slick.ninjacave.com/wiki/index.php?title=Setting_up_Slick2D_with_NetBeansIDE)
+- Slick2D & LWJGL http://slick.ninjacave.com/ (http://slick.ninjacave.com/wiki/index.php?title=Setting_up_Slick2D_with_NetBeansIDE)
 
 
