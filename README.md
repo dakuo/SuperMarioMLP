@@ -1,6 +1,6 @@
 # SuperMarioRNA
 
-<img src="Executable JARS/resources/sin titulo.png" alt="Game shot" />
+<img src="https://github.com/lopeLH/SuperMarioRNA/blob/master/Executable%20JAR/resources/mainImage.png" />
 
 This project shows that MLP (Multi layer perceptrons) can be used in videogames to create characters with advanced AI capabilities.
 The main advantage of this aproach is the ability that neural networks have to simulate the natural learnig process.
