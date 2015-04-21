@@ -1,8 +1,7 @@
 # SuperMarioRNA
 
+This project shows that MLP (Multi layer perceptrons) can be used in videogames to create characters with advanced AI capabilities.The main advantage of this aproach is the ability that neural networks have to simulate the natural learnig process.
 
-This project shows that MLP (Multi layer perceptrons) can be used in videogames to create characters with advanced AI capabilities.
-The main advantage of this aproach is the ability that neural networks have to simulate the natural learnig process.
 <img src="https://github.com/lopeLH/SuperMarioRNA/blob/master/Executable%20JAR/resources/mainImage.png"  width=500 height=250 />
 
 In this example, Mario is controlled by the human player for a while, as Mario plays, information about his decisions is 
